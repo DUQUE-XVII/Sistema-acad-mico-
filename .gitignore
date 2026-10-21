@@ -7,4 +7,5 @@ obj/
 *.layout
 *.bak
 *.tmp
-
+alunos.bin 
+alunos.txt
