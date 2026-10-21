@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.obj
+bin/
+obj/
+*.depend
+*.layout
+*.bak
+*.tmp
+
